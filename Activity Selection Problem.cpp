@@ -7,7 +7,7 @@ using namespace std;
 //  s[] -->  An array that contains start time of all activities
 //  f[] -->  An array that contains finish time of all activities
 void printMaxActivities(int s[], int f[], int n)
-{
+{ 
     int i, j;
 
     printf ("Following activities are selected \n");
